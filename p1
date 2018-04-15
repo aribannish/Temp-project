@@ -1,0 +1,4 @@
+#Simple hello world in python
+def main():
+  print("Hello world!".title())
+main()
